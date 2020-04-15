@@ -1,17 +1,18 @@
 # Python Spider
 
-* 贵有恒，何必三更起五更睡；最无益，只怕一日暴十寒。
+* 贵有恒，何必三更起五更睡；最无益，只怕一日曝十日寒。
 * Python3爬虫实战：实战源码+博客讲解
-* [个人网站](http://cuijiahua.com "悬停显示")
-* [CSDN博客](http://blog.csdn.net/c406495762 "悬停显示")
-* [CSDN爬虫专栏](http://blog.csdn.net/column/details/15321.html "悬停显示")<br>
+* [个人网站](http://cuijiahua.com "个人网站")
+* [CSDN博客](http://blog.csdn.net/c406495762 "CSDN博客")
+* [CSDN爬虫专栏](https://blog.csdn.net/c406495762/article/category/9268672 "爬虫专栏")<br>
 * 学习交流群【328127489】<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=e70f3fcff3761450fda9b43eadc1910dac308a962ef9e3e87941cd2c681c4bb4"><img border="0" src="https://github.com/Jack-Cherish/Pictures/blob/master/qqgroup.png" alt="Coder" title="Coder"></a><br>
-* 分享技术，乐享生活：Jack Cui公众号每周五推送“程序员欢乐送”系列资讯类文章，欢迎您的关注！
+* 公众号：[JackCui-AI](https://mp.weixin.qq.com/s/OCWwRVDFNslIuKyiCVUoTA "JackCui-AI")<br>
+* 分享技术，乐享生活：Jack Cui公众号推送“程序员欢乐送”系列资讯类文章，以及技术类文章，欢迎您的关注！
 <div align="center"><img border="0" src="https://ww2.sinaimg.cn/large/0072Lfvtly1fxuhd2t2jqj309k09kglk.jpg" alt="Coder" title="gongzhonghao" with="200" height="200"></div>
 
 ## 声明
 
-* 代码、教程均为Jack Cui本人原创，且仅限于学习交流，请勿用于任何商业用途！
+* 代码、教程**仅限于学习交流，请勿用于任何商业用途！**
 
 ### 文章首发声明
 
@@ -23,24 +24,21 @@
     * [文件下载小助手](https://github.com/Jack-Cherish/python-spider/blob/master/downloader.py "悬停显示")
 * [爬虫实战](#爬虫实战)
     * [笔趣看小说下载](https://github.com/Jack-Cherish/python-spider/blob/master/biqukan.py "悬停显示")
-    * [VIP视频下载](https://github.com/Jack-Cherish/python-spider/tree/master/video_downloader "悬停显示")
-    * [百度文库文章下载_rev1](https://github.com/Jack-Cherish/python-spider/blob/master/baiduwenku.py "悬停显示")
-    * [百度文库文章下载_rev2](https://github.com/Jack-Cherish/python-spider/blob/master/baiduwenku_pro_1.py "悬停显示")
+    * [百度文库免费文章下载助手_rev1](https://github.com/Jack-Cherish/python-spider/blob/master/baiduwenku.py "悬停显示")
+    * [百度文库免费文章下载助手_rev2](https://github.com/Jack-Cherish/python-spider/blob/master/baiduwenku_pro_1.py "悬停显示")
     * [《帅啊》网帅哥图片下载](https://github.com/Jack-Cherish/python-spider/blob/master/shuaia.py "悬停显示")
     * [构建代理IP池](https://github.com/Jack-Cherish/python-spider/blob/master/daili.py "悬停显示")
     * [《火影忍者》漫画下载](https://github.com/Jack-Cherish/python-spider/tree/master/cartoon "悬停显示")
     * [财务报表下载小助手](https://github.com/Jack-Cherish/python-spider/blob/master/financical.py "悬停显示")
     * [一小时入门网络爬虫](https://github.com/Jack-Cherish/python-spider/tree/master/one_hour_spider "悬停显示")
-    * [抖音App视频下载_rev1](https://github.com/Jack-Cherish/python-spider/blob/master/douyin.py "悬停显示")
-    * [抖音App视频下载_rev2](https://github.com/Jack-Cherish/python-spider/blob/master/douyin_pro.py "悬停显示")
-    * [抖音App视频下载_rev3](https://github.com/Jack-Cherish/python-spider/tree/master/douyin "悬停显示")
-    * [GEETEST验证码破解](https://github.com/Jack-Cherish/python-spider/blob/master/geetest.py "悬停显示")
+    * [抖音App视频下载](https://github.com/Jack-Cherish/python-spider/tree/master/douyin "悬停显示")
+    * [GEETEST验证码识别](https://github.com/Jack-Cherish/python-spider/blob/master/geetest.py "悬停显示")
     * [12306抢票小助手](https://github.com/Jack-Cherish/python-spider/blob/master/12306.py "悬停显示")
     * [百万英雄答题辅助系统](https://github.com/Jack-Cherish/python-spider/tree/master/baiwan "悬停显示")   
-    * [网易云音乐批量下载](https://github.com/Jack-Cherish/python-spider/tree/master/Netease "悬停显示")
-    * [B站视频和弹幕批量下载](https://github.com/Jack-Cherish/python-spider/tree/master/bilibili "悬停显示")
+    * [网易云音乐免费音乐批量下载](https://github.com/Jack-Cherish/python-spider/tree/master/Netease "悬停显示")
+    * [B站免费视频和弹幕批量下载](https://github.com/Jack-Cherish/python-spider/tree/master/bilibili "悬停显示")
     * [京东商品晒单图下载](https://github.com/Jack-Cherish/python-spider/tree/master/dingdong "悬停显示")
-    * [正方教务管理系统爬虫](https://github.com/Jack-Cherish/python-spider/tree/master/zhengfang_system_spider "悬停显示")
+    * [正方教务管理系统个人信息查询](https://github.com/Jack-Cherish/python-spider/tree/master/zhengfang_system_spider "悬停显示")
 * [其它](#其它)
 
 ## 爬虫小工具
@@ -65,39 +63,11 @@
 
 		python biqukan.py
 
- * video_downloader：爱奇艺等主流视频网站的VIP视频破解助手(暂只支持PC和手机在线观看VIP视频！)
-
-	感谢Python3二维码生成器作者：https://github.com/sylnsfar/qrcode
-	
-	编译好的软件下载连接：https://pan.baidu.com/s/1bqSTNJL 密码:p8bs
-	
-	解压密码：`cuijiahua.com`
-	
-	无需Python3环境，在Windows下，解压即用！[软件使用方法](http://blog.csdn.net/c406495762/article/details/71334633 "悬停显示")
-	
-	源码可查看`video_downloader`，运行源码需要搭建Python3环境，并安装相应第三方依赖库：
-	
-	在`video_downloader`文件夹下，安装第三方依赖库：
-
-		pip3 install -r requirements.txt
-
-	使用方法：
-	
-		python movie_downloader.py
-
-	运行环境：
-	
-		Windows, Python3
-		
-		Linux, Python3
-		
-		Mac, Python3
-
  * baiduwenku.py: 百度文库word文章爬取
 	
 	原理说明：http://blog.csdn.net/c406495762/article/details/72331737
 	
-	代码不完善，没有进行打包，不具通用性，纯属娱乐，以后有时间会完善。
+	代码不完善，没有进行打包，不具通用性，纯属娱乐。
 	
  * shuaia.py: 爬取《帅啊》网，帅哥图片
 
@@ -149,7 +119,7 @@
 	
 	 * 网络小说下载(静态网站)-biqukan
 	 * 优美壁纸下载(动态网站)-unsplash
-	 * 爱奇艺VIP视频下载
+	 * 视频下载
 	 
  * douyin.py:抖音App视频下载
  
@@ -179,17 +149,11 @@
 	
 	![image](https://github.com/Jack-Cherish/Pictures/blob/master/14.gif)
 	
- * geetest.py:GEETEST验证码破解
- 
- 	爬虫最大的敌人之一是什么？没错，验证码！Geetest作为提供验证码服务的行家，市场占有率还是蛮高的。遇到Geetest提供的滑动验证码怎么破？授人予鱼不如授人予渔，接下来就为大家呈现本教程的精彩内容。
+ * geetest.py:GEETEST验证码识别
  
  	原理说明:
 	
-	 * 个人网站：http://www.cuijiahua.com/blog/2017/11/spider_2_geetest.html
-	 
-	动态示意图：
-	
-	![image](https://github.com/Jack-Cherish/Pictures/blob/master/spider_2_1.gif)
+	 无
 	
  * 12306.py:用Python抢火车票简单代码
  
@@ -265,7 +229,7 @@
         -k	搜索关键词
         -n  	下载商品的晒单图个数，即n个商店的晒单图
 
- * zhengfang_system_spider：对正方教务管理系统个人课表，学生成绩，绩点等简单爬取
+ * zhengfang_system_spider：对正方教务管理系统个人课表，个人学生成绩，绩点等简单爬取
  
  	效果图：
 	
